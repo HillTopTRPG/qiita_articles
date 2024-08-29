@@ -1,0 +1,5 @@
+{
+  "includePrivate": false,
+  "host": "qiita-cli",
+  "port": 8888
+}

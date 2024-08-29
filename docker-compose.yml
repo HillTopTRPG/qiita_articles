@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  qiita-cli:
+    build: .
+    container_name: qiita-cli
+    working_dir: /qiita/cli
+    tty: true
+    ports:
+      - '8888:8888'
+    volumes:
+      - '.:/qiita/cli'
+#    command: bash -c "npm i"

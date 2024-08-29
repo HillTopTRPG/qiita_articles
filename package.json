@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "login": "npx qiita login",
+    "preview": "npx qiita preview",
+    "new": "npx qiita new"
+  },
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.5.0"
+  }
+}
