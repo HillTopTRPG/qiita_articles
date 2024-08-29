@@ -1,10 +1,10 @@
 ---
-title: "Qiita、はじめました"
+title: Qiita、はじめました
 tags:
-  - 'Qiita'
+  - Qiita
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-08-29T10:03:08+09:00'
+id: a306b602651a1d94e108
 organization_url_name: null
 slide: false
 ignorePublish: false
