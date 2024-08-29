@@ -3,7 +3,7 @@ title: Qiita vs Zenn 書きやすさ比較
 tags:
   - Qiita
   - Zenn
-private: true
+private: false
 updated_at: '2024-08-29T13:44:39+09:00'
 id: 162ef6344f05b9601d38
 organization_url_name: null
@@ -48,7 +48,7 @@ https://zenn.dev/zenn/books/how-to-create-book
 ## 2. フォーマット
 
 どちらも Markdown記法で記述します。  
-差異があるかは未確認だが、少なくとも執筆上困ることはなさそう。
+差異があるかは未確認ですが、少なくとも執筆上困ることはなさそう。
 
 https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 
