@@ -106,7 +106,7 @@ Zennでは `started-zenn` なのがお分かりいただけると思います。
 
 ```yml:started-qiita.md
 ---
-title: Qiita、はじめました
+title: Qiita はじめました
 tags:
   - Qiita
 private: false # true: 限定共有記事 / false: 公開記事
@@ -122,7 +122,7 @@ ignorePublish: false # true: `publish`コマンドにおいて無視されます
 
 ```yml:started-zenn.md
 ---
-title: "Zenn、はじめました"
+title: "Zenn はじめました"
 emoji: "🐣" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Zenn"]

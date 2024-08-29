@@ -1,5 +1,5 @@
 ---
-title: Qiita、はじめました
+title: Qiita はじめました
 tags:
   - Qiita
 private: false
